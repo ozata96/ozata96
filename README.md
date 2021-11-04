@@ -1,9 +1,9 @@
 <br />Hello! My name is Omar and I'm a recent graduate from Imperial College London with a Masters in Computer Science. 
 <br />
-<br />I’m interested in fintech and game development.
-<br />My dissertation at Imperial was a multiplayer virtual reality game developed for youth targeting their social and emotional development. The game made use of the XR Interaction Toolkit and Photon Networking.
 <br />
-<br />I'm continuing to improve my C++, C#, and Unity knowledge and I'm currently learning how to use React JS and React Native.
+<br />My dissertation at Imperial was a multiplayer virtual reality program developed for youth that targets their social and emotional development. The program made use of the XR Interaction Toolkit and Photon Networking.
+<br />
+<br />I'm continuing to improve my knowledge in C++, C#, and Python.
 <br />
 <br />Please reach me on my linkedin: www.linkedin.com/in/oarafeh
 
